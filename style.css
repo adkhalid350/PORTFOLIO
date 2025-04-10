@@ -1,0 +1,144 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "poppins",sans-serif;
+  }
+
+  body {
+   background-color: #0a1f2e;
+}
+
+
+
+
+
+  .nav-item :hover{
+    font-size: 21px;
+   color:#0ef;
+font-weight: 600;
+  }
+    
+
+
+
+ 
+  .section1{
+    margin-top: 15vh;
+  } 
+  #element{
+    color: #0ef;
+    } 
+.btn-box:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 15px #00bfff;
+}
+ 
+
+
+
+
+
+
+
+.container{
+  margin-top: 18vh;
+}
+.h2-sr{
+  font-size: 7vh;
+}
+.img-my{
+   height: 55vh; 
+  margin-right: 10vh;
+}
+
+
+
+
+
+.section2{
+  margin-top: 20vh;
+}
+.me-h1{
+font-size: 7vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+.project{
+  margin-top: 45vh;
+}
+
+.pro-h1 {
+ font-size: 7vh;
+}
+.project-card img {
+  width: 100%;
+  border-radius: 3vh;
+}
+
+
+
+
+
+
+
+
+.section5{
+  margin-top: 50vh;
+  margin-bottom: 30vh;
+}
+.h1-con{
+  font-size: 6vh;
+}
+form input,
+form textarea {
+  width: 60vh;
+  padding: 2vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
