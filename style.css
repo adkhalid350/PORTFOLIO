@@ -40,7 +40,7 @@ font-weight: 600;
 }
 .img-my{
    height: 50vh; 
-}
+} 
 
 
 
@@ -54,7 +54,7 @@ font-weight: 600;
 .ser-h1{
 font-size: 7vh;
 }
-.service-box1{
+ .service-box1{
   height: 45vh;
   background-color:#183149;
 }
@@ -69,7 +69,7 @@ font-size: 7vh;
   margin-top: 25vh;
   background-color: #265b83;
 }
-
+  
 
 
 
@@ -112,7 +112,7 @@ font-size: 7vh;
 
 .btn-box:hover {
   transform: scale(1.05);
-  box-shadow: 0 0 20px #00bfff;
+  box-shadow: 0 0 25px #00bfff;
 }
 
 
@@ -132,40 +132,6 @@ font-size: 7vh;
 
 
 
-
-
-.ad{
-
-  width: 300px;
-  height: 200px;
-  background-color:rgb(17, 17, 88);
-  color: white;
-  font-size: x-large;
-  text-align: center;
-  margin-top: 35vh;
-  margin-left: 50vh;
-  
-
-  
-}
-.button{
-  margin-top: 5vh;
-  margin-left: 57vh;
-}
-
-#show{
-  background-color: rgb(8, 8, 48);
-  color: beige;
-  font-size: xx-large;
-  border-radius: 10% ;
-}
-
-#hide{
-  background-color: rgb(8, 8, 48);
-  color: beige;
-  font-size: xx-large;
-  border-radius: 10%;
-}
 
 
 
